@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Présentation de Sonatrach</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #004080;
+            color: #fff;
+            text-align: center;
+            padding: 2rem 0;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 2rem auto;
+            background-color: #fff;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #004080;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem 0;
+            background-color: #004080;
+            color: #fff;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Présentation de Sonatrach</h1>
+</header>
+
+<div class="container">
+    <section id="introduction">
+        <h2>Introduction</h2>
+        <p>Sonatrach est la compagnie nationale algérienne des hydrocarbures et l'une des plus grandes entreprises d'Afrique. Fondée en 1963, elle joue un rôle essentiel dans l'économie algérienne et dans le secteur énergétique mondial.</p>
+    </section>
+
+    <section id="histoire">
+        <h2>Histoire et Évolution</h2>
+        <p>Depuis sa fondation en 1963, Sonatrach s'est développée pour devenir un leader dans l'exploration, la production, le transport, et la transformation des hydrocarbures. Au fil des décennies, elle a consolidé sa position grâce à des investissements stratégiques et des partenariats internationaux.</p>
+    </section>
+
+    <section id="chiffres-cles">
+        <h2>Chiffres Clés</h2>
+        <p>Sonatrach réalise un chiffre d'affaires annuel de plusieurs dizaines de milliards de dollars. L'entreprise produit environ 1,2 million de barils de pétrole par jour et des milliards de mètres cubes de gaz naturel chaque année.</p>
+    </section>
+
+    <section id="presence-internationale">
+        <h2>Présence Internationale</h2>
+        <p>Avec des activités dans plusieurs pays, Sonatrach a établi des partenariats avec de grandes entreprises mondiales pour explorer et développer de nouveaux gisements de pétrole et de gaz. Ses opérations couvrent l'Europe, l'Amérique latine, et d'autres régions stratégiques.</p>
+    </section>
+
+    <section id="innovations">
+        <h2>Innovations et Technologies</h2>
+        <p>Sonatrach investit régulièrement dans la recherche et le développement pour adopter des technologies modernes. Cela inclut l'amélioration des techniques d'exploration et l'optimisation des processus de raffinage pour réduire l'empreinte écologique.</p>
+    </section>
+
+    <section id="environnement">
+        <h2>Engagement envers l'Environnement</h2>
+        <p>L'entreprise s'engage à respecter les normes environnementales internationales et participe à des initiatives pour promouvoir un développement durable. Cela comprend des projets pour réduire les émissions de gaz à effet de serre et protéger les écosystèmes locaux.</p>
+    </section>
+</div>
+
+<footer>
+    <p>&copy; 2024 Présentation de Sonatrach</p>
+</footer>
+
+</body>
+</html>
